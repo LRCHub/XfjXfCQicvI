@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Angel Voice",
+  "base_artist": "熱気バサラ",
+  "createdAt": "2025-12-01T18:13:16.814265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Broken Record (Todd Edwards' Angel Voice Remix)",
+      "artist": "Katy B",
+      "has_synced": false,
+      "path": "select/01_Broken_Record_(Todd_Edwards'_Angel_Voice_Remix)_Katy_B.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel Voice",
+      "artist": "BASARA NEKKI",
+      "has_synced": true,
+      "path": "select/02_Angel_Voice_BASARA_NEKKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Angel (voice-over)",
+      "artist": "Revolution Renaissance",
+      "has_synced": true,
+      "path": "select/03_Angel_(voice-over)_Revolution_Renaissance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ANGEL VOICE",
+      "artist": "福山芳樹",
+      "has_synced": false,
+      "path": "select/04_ANGEL_VOICE_福山芳樹.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Angel Voice (Nekki Basara)",
+      "artist": "Fire Bomber",
+      "has_synced": true,
+      "path": "select/05_Angel_Voice_(Nekki_Basara)_Fire_Bomber.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ANGEL VOICE (マクロスダイナマイト7)",
+      "artist": "福山芳樹（熱気バサラ）",
+      "has_synced": true,
+      "path": "select/06_ANGEL_VOICE_(マクロスダイナマイト7)_福山芳樹(熱気バサラ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angel Voice - 天使の約束",
+      "artist": "Rev. from DVL",
+      "has_synced": false,
+      "path": "select/07_Angel_Voice_-_天使の約束_Rev._from_DVL.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ANGEL VOICE",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_01_ANGEL_VOICE_福山_芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ANGEL VOICE",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_02_ANGEL_VOICE_福山_芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ANGEL VOICE",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_03_ANGEL_VOICE_福山_芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Angel Voices Calling",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_04_Angel_Voices_Calling_福山_芳樹.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Angel voice",
+      "artist": "福山 芳樹",
+      "has_synced": false,
+      "path": "select/pl_05_Angel_voice_福山_芳樹.txt"
+    }
+  ]
+}
